@@ -1,0 +1,5 @@
+{
+  "TOKEN" : "Bot-token",
+  "user_id" : "Id of the user, whom you want to send the message",
+  "message" : "message you want to send the user"
+}
