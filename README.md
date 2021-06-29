@@ -1,2 +1,3 @@
-# private-message-discord-bot
-You can dm anyone with your bot
+# DM ANY USER WITH YOUR DISCORD BOT
+
+- go to config.json and fill everything then run the code
